@@ -1,0 +1,27 @@
+Concept of shorting in trading:
+
+Instead of the classic "buy low, then sell high," you sell high first, and buy low later. 
+It is a strategy used by traders to profit when they believe an asset's price is going to fall.
+
+Mechanics of shorting:-
+1. Borrow the Shares: Margin account required. You can't sell what you don't have. Your broker lends you shares, usually borrowing them from another client's portfolio.
+2. Sell to the Market: You immediately sell those borrowed shares at the current market price. You now hold the cash from the sale, but you owe your broker that exact number of shares.
+3. Wait for the Drop: You monitor the market, waiting for the stock's price to decline.
+4. Buy to Cover: Once the price falls to your target, you buy the shares back from the open market at the new, lower price.
+5. Return and Profit: You return the shares to your broker. The difference between what you initially sold them for and what you bought them back for is your profit (minus borrowing fees and commissions).
+
+While you are borrowing the shares, you absolutely still need your own money in the account to make the trade happen.
+This is called margin (or collateral).
+
+Why Your Own Money is Still Required:
+Because your potential losses on a short trade are theoretically unlimited, the broker needs a safety net before they will lend you shares. 
+They require you to lock up a percentage of your own cash to cover any potential losses.
+
+If the trade goes well (stock drops): You make your profit, return the shares, and your margin cash is unlocked.
+
+If the trade goes wrong (stock rises): The broker uses your locked margin to cover the growing loss.
+
+If the stock price rises so much that your locked cash is almost wiped out, the broker will demand that you deposit more money immediately. 
+If you don't, they will automatically buy the shares back at a loss to protect themselves from going negative. This forced action is known as a margin call.
+
+So, while you are trading with borrowed assets, your own cash is very much on the line as the safety deposit!
