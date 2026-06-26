@@ -1,0 +1,10 @@
+S&R (Support & Resistance)
+Support- Below CMP, strong buying, target for short trade
+Resistance- Above CMP, strong selling, target for long trade
+
+Drawing S&R level: 
+1. load 3-6 months of data pts for short trade & 12-18 months of data pts for long trade
+2. identify price action zones (min 3) where price hesitated to move up/down after a brief up/down or during sharp reversals
+3. fit a horizontal line on these data pts well spaces in time
+
+based on the logic of "History repeats itself"
